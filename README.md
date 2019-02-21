@@ -2,7 +2,7 @@
 
 This is an University project in Computing in Digital Forensics and Cyber Security, developed by:
 
-Artjom Polyakov, Davide De Angelis, Luca Sirianni
+Artyom Polyakov, Davide De Angelis, Luca Sirianni
 
 A python Alerting Tool Web Application for scanning network addresses range, for network topology changes, ports changes, vulnerabilities and exploits on each running service, SSL anomalies on Web Server Application. The application user can configure a gmail account and a Twilio account for being notified based on the notification options
 
